@@ -23,6 +23,7 @@ ${\textsf{\color{#cf0000} andrei, armand , kat , or adam }}$
    <p align="center">
    ${\textsf{\color{#cf0000}i kin many characters i dont believe in "doubles". you are not me and i am not you}}$
    ${\textsf{\color{#cf0000}"doubles" are free to interact just dont pretend were the same person its odd}}$
+     <p align="center">
     ${\textsf{\color{#cf0000}my main is @yaoikat}}$
  <p align="center">
   </a>
