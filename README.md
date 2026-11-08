@@ -22,8 +22,8 @@ ${\textsf{\color{#cf0000} andrei, armand , kat , or adam }}$
     ${\textsf{\color{#cf0000}in a social hang out game and to just sit there but thats what i like to do. but im not going to ignore you if you whisper me or sit with me !! }}$
    <p align="center">
    ${\textsf{\color{#cf0000}i kin many characters i dont believe in "doubles". you are not me and i am not you}}$
-    ${\textsf{\color{#cf0000}"doubles" are free to interact just dont pretend were the same person its odd}}$
-     ${\textsf{\color{#cf0000}main is @yaoikat}}$
+   ${\textsf{\color{#cf0000}"doubles" are free to interact just dont pretend were the same person its odd}}$
+    ${\textsf{\color{#cf0000}my main is @yaoikat}}$
  <p align="center">
   </a>
 </p>
